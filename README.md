@@ -14,7 +14,7 @@ A: *For naked twins, the operation should go through all units; for each unit, f
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: *The idea is actually the same, and we can also use the same strategies. The only difference to make it that add the diagnoal units to the unit list and peers accordingly*.
+A: *The idea is actually the same, and we can also use the same strategies. The only difference to make is that adding the diagnoal units to the unit list and peers accordingly. Thereafter, we can use the same functions to solve the problem (if there is a solution)*.
 
 ### Install
 
